@@ -1,3 +1,3 @@
 # think_neuro
 Learning to code
-Today is hot!!!
+Today is hot!!! Tomorrow is cold!!!
